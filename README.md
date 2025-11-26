@@ -1,4 +1,4 @@
-# C_BUILDS
+# 🅲 C_BUILDS
 
 A collection of C programs, exercises, experiments, and daily builds created to improve coding skills, explore new concepts, and develop practical tools.
 
