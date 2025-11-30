@@ -1,8 +1,8 @@
-/* 1. Write a C program to calculate area of a rectangle: 
+/* Q2. Write a C program to calculate area of a rectangle: 
 a. Using hard coded inputs. 
 b. Using inputs supplied by the user.  */
 
-//solution 1(a)
+//solution Q2(a)
 
  #include <stdio.h>
 
@@ -14,7 +14,7 @@ int main(){
 }
 
 
-//solution 1(b)
+//solution Q2(b)
 
 /* #include <stdio.h>
 
@@ -28,4 +28,5 @@ int main(){
 
     printf("The area of the Rectangle is %d", length * breadth);
     return 0;
+
 }  */
