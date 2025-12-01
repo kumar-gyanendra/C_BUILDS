@@ -1,5 +1,5 @@
 /* 
-Quick Quiz: Write a program to find grade of a student given his marks based on below: 
+Q7) Quick Quiz: Write a program to find grade of a student given his marks based on below: 
 90 – 100 => A 
 80 – 90 => B 
 70 – 80 => C 
@@ -88,4 +88,5 @@ int main(){
     return 0; 
    // HUMNE ABHI TOP PE (explicit range check) KAR LIYA H. JISKE KARAN HUME DEFAULT ABHI LIKNE KE NEED NHI H. HUMNE SURU MEI HI DEFINE KAAR DIYA H KI VALUE KANHA INVALID H.
    //EVEN IF WE ALREADY USED CASES 0–4 FOR GRADE 'F', WE CAN STILL ADD A DEFAULT BECAUSE DEFAULT IS NOT A CASE LABEL — IT ONLY CATCHES VALUES THAT DO NOT MATCH ANY CASE. IT IS NOT A DUPLICATE.
+
 }
