@@ -6,7 +6,7 @@ A collection of C programs, exercises, experiments, and daily builds created to 
 
 **C_BUILDS** is a structured collection of C solutions to coding problems from various competitive programming and interview preparation platforms. This repository serves as a personal practice archive where I solve, store, and review problems to improve my C programming skills, strengthen my logic, and prepare for technical assessments.
 
-The goals of this repository are to:
+The goals of this repository are to:-
 
 - Build a strong foundation in C programming and problem-solving
 - Practice algorithms and data structures through real coding challenges
